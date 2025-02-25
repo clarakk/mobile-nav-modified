@@ -14,7 +14,8 @@ body {
 }
 
 header {
-  background: #E54B4B;
+   background: rgb(17,13,91);
+  background: radial-gradient(circle, rgba(2, 1, 23, 0.80) 0%, rgba(7, 49, 67, 0.857) 0%, rgba(3, 109, 131, 0.983) 80%);
   color: #EBEBD3;
   padding: 1em 0;
   position: relative;
